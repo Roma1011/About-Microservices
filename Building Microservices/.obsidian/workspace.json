@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4078bb34ee762ca6",
+            "id": "c33aaa41cbce4930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "რა არის მიკროსერვისები.md",
+                "file": "სარჩევი.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "რა არის მიკროსერვისები"
+              "title": "სარჩევი"
             }
           }
         ]
@@ -169,10 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4078bb34ee762ca6",
+  "active": "c33aaa41cbce4930",
   "lastOpenFiles": [
+    "კოდირების არქიტექტორი.md",
+    "სარჩევი.md",
+    "ზონირება.md",
+    "ევოლუციური ხედვა არქიტექტორისთვის.md",
+    "არასწორი შედარებები.md",
+    "შესავალი თავი მეორე ევოლუციური არქიტექტორი.md",
+    "შესავალი თავი მეორე.md",
+    "რა არის მიკროსერვისები.md",
+    "SOA ს შესახებ.md",
+    "სხვა დეკომპოზიციის ტექნიკები.md",
     "Pasted image 20250904163549.png",
-    "Pasted image 20250904163206.png",
-    "რა არის მიკროსერვისები.md"
+    "Pasted image 20250904163206.png"
   ]
 }
