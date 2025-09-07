@@ -24,21 +24,91 @@
             }
           },
           {
-            "id": "49c5a7908ca86cfd",
+            "id": "83a94fa45372f01e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "მმართველობა კოდის მეშვეობით.md",
+                "file": "სარჩევი.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "მმართველობა კოდის მეშვეობით"
+              "title": "სარჩევი"
+            }
+          },
+          {
+            "id": "1393cfbf55397fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "რა ქმნის კარგ სერვისს.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "რა ქმნის კარგ სერვისს"
+            }
+          },
+          {
+            "id": "615d92d708b8c9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "თავი 2. ევოლუციური არქიტექტორი.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თავი 2. ევოლუციური არქიტექტორი"
+            }
+          },
+          {
+            "id": "b45bc9ab6f3313bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "სარჩევი.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "სარჩევი"
+            }
+          },
+          {
+            "id": "083051554b2ac47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "თავი 2. ევოლუციური არქიტექტორი.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თავი 2. ევოლუციური არქიტექტორი"
+            }
+          },
+          {
+            "id": "1124a374c1726f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "თავი 2. ევოლუციური არქიტექტორი.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თავი 2. ევოლუციური არქიტექტორი"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,16 +256,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49c5a7908ca86cfd",
+  "active": "1393cfbf55397fe7",
   "lastOpenFiles": [
-    "საჭირო სტანდარტი.md",
+    "რა ქმნის კარგ სერვისს.md",
     "სარჩევი.md",
+    "MusicCorp-ის გაცნობა.md",
+    "თავი 2. ევოლუციური არქიტექტორი.md",
+    "თავი 3. როგორ დავმოდელოთ სერვისები.md",
     "მეორე თავის შეჯამება.md",
     "გუნდის შექმნა.md",
     "მმართველობა და „ცენტრიდან ლიდერობა“.md",
     "გამონაკლისების დამუშავება.md",
     "ტექნიკური ვალი.md",
     "მმართველობა კოდის მეშვეობით.md",
+    "საჭირო სტანდარტი.md",
     "პრინციპებზე დაფუძნებული მიდგომა.md",
     "Pasted image 20250907150139.png",
     "კოდირების არქიტექტორი.md",
@@ -203,7 +277,6 @@
     "ევოლუციური ხედვა არქიტექტორისთვის.md",
     "არასწორი შედარებები.md",
     "რა არის მიკროსერვისები.md",
-    "შესავალი თავი მეორე ევოლუციური არქიტექტორი.md",
     "სხვა დეკომპოზიციის ტექნიკები.md",
     "შესავალი თავი მეორე.md",
     "SOA ს შესახებ.md",
