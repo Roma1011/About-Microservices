@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "სარჩევი"
             }
+          },
+          {
+            "id": "0de1378485ee44cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "თავი 4. ინტეგრაცია.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "თავი 4. ინტეგრაცია"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f35f4084b80d44b",
+  "active": "0de1378485ee44cb",
   "lastOpenFiles": [
-    "თავი 3. შეჯამება.md",
+    "თავი 4. ინტეგრაცია.md",
     "სარჩევი.md",
+    "თავი 3. შეჯამება.md",
     "კომუნიკაცია ბიზნეს კონცეფციების მიხედვით.md",
     "თავი 2. შეჯამება.md",
     "ტექნიკური საზღვარი.md",
@@ -203,7 +219,6 @@
     "არასწორი შედარებები.md",
     "რა არის მიკროსერვისები.md",
     "სხვა დეკომპოზიციის ტექნიკები.md",
-    "შესავალი თავი მეორე.md",
     "Pasted image 20250904163549.png",
     "Pasted image 20250904163206.png"
   ]
