@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "68a8ec2eb3fedd15",
+            "id": "7a2d1a81cde7410a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,37 +36,9 @@
               "icon": "lucide-file",
               "title": "ვერსიონირება (Versioning)"
             }
-          },
-          {
-            "id": "58d6ea0108258867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "წვდომა რეფერენსით (Access by Reference).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "წვდომა რეფერენსით (Access by Reference)"
-            }
-          },
-          {
-            "id": "16e32371af0e1b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reactive Extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reactive Extensions"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,15 +186,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16e32371af0e1b43",
+  "active": "7a2d1a81cde7410a",
   "lastOpenFiles": [
-    "წვდომა რეფერენსით (Access by Reference).md",
-    "ვერსიონირება (Versioning).md",
+    "Pasted image 20250908233840.png",
+    "Pasted image 20250908233616.png",
     "სარჩევი.md",
+    "ცვლილებების ადრეული აღმოჩენა.md",
+    "ვერსიონირება (Versioning).md",
+    "DRY და კოდის გადამეტებული გაზიარების საფრთხეები მიკროსერვისების სამყაროში.md",
+    "წვდომა რეფერენსით (Access by Reference).md",
     "Reactive Extensions.md",
     "სერვისები, როგორც მდგომარეობის მანქანები.md",
     "ასინქრონული, მოვლენებზე დაფუძნებული თანამშრომლობის განხორციელება.md",
-    "DRY და კოდის გადამეტებული გაზიარების საფრთხეები მიკროსერვისების სამყაროში.md",
     "REST.md",
     "Remote Procedure Calls (RPC).md",
     "სინქრონული და ასინქრონული კომუნიკაცია.md",
@@ -248,9 +223,6 @@
     "შეზღუდული კონტექსტი (The Bounded Context).md",
     "Pasted image 20250907222033.png",
     "რა ქმნის კარგ სერვისს.md",
-    "MusicCorp-ის გაცნობა.md",
-    "თავი 2. ევოლუციური არქიტექტორი.md",
-    "თავი 3. როგორ დავმოდელოთ სერვისები.md",
-    "Pasted image 20250907150139.png"
+    "MusicCorp-ის გაცნობა.md"
   ]
 }
