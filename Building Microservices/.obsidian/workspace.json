@@ -37,8 +37,7 @@
               "title": "ვერსიონირება (Versioning)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a2d1a81cde7410a",
+  "active": "8f35f4084b80d44b",
   "lastOpenFiles": [
+    "ვერსიონირება (Versioning).md",
+    "სარჩევი.md",
     "Pasted image 20250908233840.png",
     "Pasted image 20250908233616.png",
-    "სარჩევი.md",
     "ცვლილებების ადრეული აღმოჩენა.md",
-    "ვერსიონირება (Versioning).md",
     "DRY და კოდის გადამეტებული გაზიარების საფრთხეები მიკროსერვისების სამყაროში.md",
     "წვდომა რეფერენსით (Access by Reference).md",
     "Reactive Extensions.md",
@@ -221,7 +220,6 @@
     "Pasted image 20250907225234.png",
     "ბიზნეს შესაძლებლობები.md",
     "შეზღუდული კონტექსტი (The Bounded Context).md",
-    "Pasted image 20250907222033.png",
     "რა ქმნის კარგ სერვისს.md",
     "MusicCorp-ის გაცნობა.md"
   ]
