@@ -24,31 +24,17 @@
             }
           },
           {
-            "id": "0d4b02f03d43aba3",
+            "id": "1a6328b499a4b98d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "მომხმარებლის ინტერფეისები.md",
+                "file": "თავი 4. შეჯამება.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "მომხმარებლის ინტერფეისები"
-            }
-          },
-          {
-            "id": "7a2d1a81cde7410a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ვერსიონირება (Versioning).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ვერსიონირება (Versioning)"
+              "title": "თავი 4. შეჯამება"
             }
           }
         ],
@@ -200,14 +186,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d4b02f03d43aba3",
+  "active": "1a6328b499a4b98d",
   "lastOpenFiles": [
+    "თავი 4. შეჯამება.md",
+    "სარჩევი.md",
+    "მესამე მხარის პროგრამულ უზრუნველყოფასთან ინტეგრაცია.md",
+    "Pasted image 20250909145219.png",
+    "Pasted image 20250909145117.png",
+    "მომხმარებლის ინტერფეისები.md",
     "Pasted image 20250909144050.png",
     "Pasted image 20250909144025.png",
     "Pasted image 20250909140434.png",
     "Pasted image 20250909140123.png",
-    "მომხმარებლის ინტერფეისები.md",
-    "სარჩევი.md",
     "ვერსიონირება (Versioning).md",
     "Pasted image 20250908233840.png",
     "Pasted image 20250908233616.png",
@@ -224,19 +214,15 @@
     "გაზიარებული მონაცემთა ბაზა.md",
     "Pasted image 20250907233212.png",
     "Pasted image 20250907233018.png",
-    "Pasted image 20250907232910.png",
     "კლიენტებთან ინტერფეისის შექმნა.md",
     "იდეალური ინტეგრაციის ტექნოლოგიის ძიება.md",
     "თავი 4. ინტეგრაცია.md",
-    "Pasted image 20250907231902.png",
     "ტექნიკური საზღვარი.md",
     "კომუნიკაცია ბიზნეს კონცეფციების მიხედვით.md",
-    "Pasted image 20250907231121.png",
     "კუები უკიდურესამდე („Turtles All the Way Down“).md",
     "თავი 3. შეჯამება.md",
     "თავი 2. შეჯამება.md",
     "ბიზნეს შესაძლებლობები.md",
-    "შეზღუდული კონტექსტი (The Bounded Context).md",
-    "რა ქმნის კარგ სერვისს.md"
+    "შეზღუდული კონტექსტი (The Bounded Context).md"
   ]
 }
