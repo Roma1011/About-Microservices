@@ -8,37 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f35f4084b80d44b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "სარჩევი.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "სარჩევი"
-            }
-          },
-          {
-            "id": "9fbca58bd83c80f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "გაზიარებული მონაცემთა ბაზა.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "გაზიარებული მონაცემთა ბაზა"
-            }
-          },
-          {
-            "id": "459b6041348193e3",
+            "id": "4078bb34ee762ca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,38 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "სარჩევი"
-            }
-          },
-          {
-            "id": "2d0e53f83e5675d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "სარჩევი.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "სარჩევი"
-            }
-          },
-          {
-            "id": "f5b2097e06fd6409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remote Procedure Calls (RPC).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Remote Procedure Calls (RPC)"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "რა არის მიკროსერვისები.md",
+                "file": "სარჩევი.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for რა არის მიკროსერვისები"
+              "title": "Backlinks for სარჩევი"
             }
           },
           {
@@ -214,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,43 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5b2097e06fd6409",
+  "active": "4078bb34ee762ca6",
   "lastOpenFiles": [
-    "Remote Procedure Calls (RPC).md",
-    "სარჩევი.md",
-    "ორკესტრაცია და ქორეოგრაფია.md",
-    "Pasted image 20250907233212.png",
-    "Pasted image 20250907233018.png",
-    "Pasted image 20250907232910.png",
+    "რა არის მიკროსერვისები.md",
+    "შეზღუდული კონტექსტი (The Bounded Context).md",
+    "ტექნიკური საზღვარი.md",
+    "ტექნიკური ვალი.md",
+    "სხვა დეკომპოზიციის ტექნიკები.md",
     "სინქრონული და ასინქრონული კომუნიკაცია.md",
-    "გაზიარებული მონაცემთა ბაზა.md",
+    "საჭირო სტანდარტი.md",
+    "სარჩევი.md",
+    "რა ქმნის კარგ სერვისს.md",
+    "პრინციპებზე დაფუძნებული მიდგომა.md",
+    "ორკესტრაცია და ქორეოგრაფია.md",
+    "მმართველობა კოდის მეშვეობით.md",
+    "მმართველობა და „ცენტრიდან ლიდერობა“.md",
+    "კუები უკიდურესამდე („Turtles All the Way Down“).md",
+    "კომუნიკაცია ბიზნეს კონცეფციების მიხედვით.md",
+    "კოდირების არქიტექტორი.md",
     "კლიენტებთან ინტერფეისის შექმნა.md",
     "იდეალური ინტეგრაციის ტექნოლოგიის ძიება.md",
     "თავი 4. ინტეგრაცია.md",
-    "Pasted image 20250907231902.png",
-    "ტექნიკური საზღვარი.md",
-    "კომუნიკაცია ბიზნეს კონცეფციების მიხედვით.md",
-    "Pasted image 20250907231121.png",
-    "კუები უკიდურესამდე („Turtles All the Way Down“).md",
     "თავი 3. შეჯამება.md",
+    "თავი 3. როგორ დავმოდელოთ სერვისები.md",
     "თავი 2. შეჯამება.md",
+    "თავი 2. ევოლუციური არქიტექტორი.md",
+    "ზონირება.md",
+    "ევოლუციური ხედვა არქიტექტორისთვის.md",
+    "გუნდის შექმნა.md",
+    "Pasted image 20250907233212.png",
+    "Pasted image 20250907233018.png",
+    "Pasted image 20250907232910.png",
+    "Pasted image 20250907231902.png",
+    "Pasted image 20250907231121.png",
     "Pasted image 20250907225310.png",
     "Pasted image 20250907225300.png",
     "Pasted image 20250907225234.png",
-    "ბიზნეს შესაძლებლობები.md",
-    "შეზღუდული კონტექსტი (The Bounded Context).md",
     "Pasted image 20250907222033.png",
-    "რა ქმნის კარგ სერვისს.md",
-    "MusicCorp-ის გაცნობა.md",
-    "თავი 2. ევოლუციური არქიტექტორი.md",
-    "თავი 3. როგორ დავმოდელოთ სერვისები.md",
-    "გუნდის შექმნა.md",
-    "მმართველობა და „ცენტრიდან ლიდერობა“.md",
-    "გამონაკლისების დამუშავება.md",
-    "ტექნიკური ვალი.md",
-    "მმართველობა კოდის მეშვეობით.md",
-    "საჭირო სტანდარტი.md",
-    "პრინციპებზე დაფუძნებული მიდგომა.md",
     "Pasted image 20250907150139.png"
   ]
 }
