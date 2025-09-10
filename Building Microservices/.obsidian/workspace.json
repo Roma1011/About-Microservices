@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2cbfd689599e95a3",
+    "id": "93f6c41763134d3c",
     "type": "split",
     "children": [
       {
-        "id": "7e385ccfb46561c5",
+        "id": "042878a71840c470",
         "type": "tabs",
         "children": [
           {
-            "id": "8f35f4084b80d44b",
+            "id": "1ab1a57b8943c988",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -29,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ec1a5e5b4c4e240d",
+    "id": "78091cc0b453b4e8",
     "type": "split",
     "children": [
       {
-        "id": "40c6fc6a203ecd36",
+        "id": "d8cc4fded9a9e914",
         "type": "tabs",
         "children": [
           {
-            "id": "f3efd01cfdfcea5c",
+            "id": "5701c74f42662936",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "1ebb6154cef91b16",
+            "id": "b992a200be9d9ccc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "81f2a7dcfa422686",
+            "id": "f1a0322ee35ce52d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +83,20 @@
     "width": 300
   },
   "right": {
-    "id": "b6b06da240890bfa",
+    "id": "858b4c1738d9944a",
     "type": "split",
     "children": [
       {
-        "id": "123caabfdafce947",
+        "id": "8a763b43692ae86a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe6ee33a48786c48",
+            "id": "5ec8c155183c1b09",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "რა არის მიკროსერვისები.md",
+                "file": "სარჩევი.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +106,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for რა არის მიკროსერვისები"
+              "title": "Backlinks for სარჩევი"
             }
           },
           {
-            "id": "98450246f7a0222e",
+            "id": "35a379b3f9cff10c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "რა არის მიკროსერვისები.md",
+                "file": "სარჩევი.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from რა არის მიკროსერვისები"
+              "title": "Outgoing links from სარჩევი"
             }
           },
           {
-            "id": "368cc340a36491ff",
+            "id": "5dcccf25f87afe17",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,18 +139,18 @@
             }
           },
           {
-            "id": "6b70a63411e1a197",
+            "id": "53ead029c90156cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "რა არის მიკროსერვისები.md",
+                "file": "სარჩევი.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of რა არის მიკროსერვისები"
+              "title": "Outline of სარჩევი"
             }
           }
         ]
@@ -162,15 +162,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "8f35f4084b80d44b",
   "lastOpenFiles": [
     "მომხმარებლის ინტერფეისები.md",
@@ -208,5 +209,17 @@
     "Pasted image 20250907233212.png",
     "კლიენტებთან ინტერფეისის შექმნა.md",
     "იდეალური ინტეგრაციის ტექნოლოგიის ძიება.md"
+=======
+  "active": "5701c74f42662936",
+  "lastOpenFiles": [
+    "A",
+    "ევოლუციური ხედვა არქიტექტორისთვის.md",
+    "სარჩევი.md",
+    "არასწორი შედარებები.md",
+    "თავი 2. ევოლუციური არქიტექტორი.md",
+    "სხვა დეკომპოზიციის ტექნიკები.md",
+    "SOA ს შესახებ.md",
+    "რა არის მიკროსერვისები.md"
+>>>>>>> e29ab4eab9ee160914f247492720a837b01af524
   ]
 }
