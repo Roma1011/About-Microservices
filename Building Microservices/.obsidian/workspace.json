@@ -1,26 +1,24 @@
 {
   "main": {
-    "id": "93f6c41763134d3c",
+    "id": "0fcf45f6afd1eaf7",
     "type": "split",
     "children": [
       {
-        "id": "042878a71840c470",
+        "id": "88754035d5240f08",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab1a57b8943c988",
+            "id": "c9bd7513f20e848c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "სარჩევი.md",
+                "file": "REST.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "სარჩევი"
+              "title": "REST"
             }
           }
         ]
@@ -29,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78091cc0b453b4e8",
+    "id": "a82174aabf60c0bd",
     "type": "split",
     "children": [
       {
-        "id": "d8cc4fded9a9e914",
+        "id": "fccb1f7b61d50035",
         "type": "tabs",
         "children": [
           {
-            "id": "5701c74f42662936",
+            "id": "9b60bfe1eebdd800",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +48,7 @@
             }
           },
           {
-            "id": "b992a200be9d9ccc",
+            "id": "e1be21ccbb639a17",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +65,7 @@
             }
           },
           {
-            "id": "f1a0322ee35ce52d",
+            "id": "a7941db361314115",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "858b4c1738d9944a",
+    "id": "b9c7546ae6ed53bf",
     "type": "split",
     "children": [
       {
-        "id": "8a763b43692ae86a",
+        "id": "96f9485729e682ad",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec8c155183c1b09",
+            "id": "f22af8409939d675",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "სარჩევი.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for სარჩევი"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "35a379b3f9cff10c",
+            "id": "418199a87ce6c4d0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "სარჩევი.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from სარჩევი"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5dcccf25f87afe17",
+            "id": "ab5d58ac1d5151d7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,18 +135,17 @@
             }
           },
           {
-            "id": "53ead029c90156cd",
+            "id": "9539a132999fc2ac",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "სარჩევი.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of სარჩევი"
+              "title": "Outline"
             }
           }
         ]
@@ -171,55 +166,8 @@
       "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "8f35f4084b80d44b",
+  "active": "c9bd7513f20e848c",
   "lastOpenFiles": [
-    "მომხმარებლის ინტერფეისები.md",
-    "სარჩევი.md",
-    "პრობლემის გაგება.md",
-    "Pasted image 20250909163229.png",
-    "ჩახლართული დამოკიდებულების ბაზა.md",
-    "ციკლურად ჩახლართული Dependencies.md",
-    "მონოლითის გაყოფის მიზეზები.md",
-    "MusicCorp-ის მონოლითის გაყოფა.md",
-    "ყველაფერი seams-ების გარშემო.md",
-    "თავი 5. მონოლითის გაყოფა.md",
-    "თავი 4. შეჯამება.md",
-    "მესამე მხარის პროგრამულ უზრუნველყოფასთან ინტეგრაცია.md",
-    "Pasted image 20250909145219.png",
-    "Pasted image 20250909145117.png",
-    "Pasted image 20250909144050.png",
-    "Pasted image 20250909144025.png",
-    "Pasted image 20250909140434.png",
-    "Pasted image 20250909140123.png",
-    "ვერსიონირება (Versioning).md",
-    "Pasted image 20250908233840.png",
-    "Pasted image 20250908233616.png",
-    "ცვლილებების ადრეული აღმოჩენა.md",
-    "DRY და კოდის გადამეტებული გაზიარების საფრთხეები მიკროსერვისების სამყაროში.md",
-    "წვდომა რეფერენსით (Access by Reference).md",
-    "Reactive Extensions.md",
-    "სერვისები, როგორც მდგომარეობის მანქანები.md",
-    "ასინქრონული, მოვლენებზე დაფუძნებული თანამშრომლობის განხორციელება.md",
-    "REST.md",
-    "Remote Procedure Calls (RPC).md",
-    "სინქრონული და ასინქრონული კომუნიკაცია.md",
-    "ორკესტრაცია და ქორეოგრაფია.md",
-    "გაზიარებული მონაცემთა ბაზა.md",
-    "Pasted image 20250907233212.png",
-    "კლიენტებთან ინტერფეისის შექმნა.md",
-    "იდეალური ინტეგრაციის ტექნოლოგიის ძიება.md"
-=======
-  "active": "5701c74f42662936",
-  "lastOpenFiles": [
-    "A",
-    "ევოლუციური ხედვა არქიტექტორისთვის.md",
-    "სარჩევი.md",
-    "არასწორი შედარებები.md",
-    "თავი 2. ევოლუციური არქიტექტორი.md",
-    "სხვა დეკომპოზიციის ტექნიკები.md",
-    "SOA ს შესახებ.md",
-    "რა არის მიკროსერვისები.md"
->>>>>>> e29ab4eab9ee160914f247492720a837b01af524
+    "სარჩევი.md"
   ]
 }
