@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "მონაცემთა ბაზების რეფაქტორინგი.md",
+                "file": "ტრანზაქციული საზღვრები (Transactional Boundaries).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "მონაცემთა ბაზების რეფაქტორინგი"
+              "title": "ტრანზაქციული საზღვრები (Transactional Boundaries)"
             }
           }
         ]
@@ -169,6 +169,7 @@
   "active": "d3917a7b997ec4f6",
   "lastOpenFiles": [
     "სარჩევი.md",
+    "მონაცემთა ბაზების რეფაქტორინგი.md",
     "პრობლემის გაგება.md",
     "ციკლურად ჩახლართული Dependencies.md",
     "თავი 5. შეჯამება.md",
@@ -188,7 +189,6 @@
     "ტრანზაქციული საზღვრები (Transactional Boundaries).md",
     "Pasted image 20250913181902.png",
     "Pasted image 20250913181847.png",
-    "მონაცემთა ბაზების რეფაქტორინგი.md",
     "Pasted image 20250913181722.png",
     "Pasted image 20250913181602.png",
     "Pasted image 20250913181555.png",
