@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "პრობლემის გაგება.md",
+                "file": "მონაცემთა ბაზების რეფაქტორინგი.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "პრობლემის გაგება"
+              "title": "მონაცემთა ბაზების რეფაქტორინგი"
             }
           }
         ]
@@ -169,6 +169,7 @@
   "active": "d3917a7b997ec4f6",
   "lastOpenFiles": [
     "სარჩევი.md",
+    "პრობლემის გაგება.md",
     "ციკლურად ჩახლართული Dependencies.md",
     "თავი 5. შეჯამება.md",
     "ძირითადი მიზეზების გაგება (Understanding Root Causes).md",
@@ -189,7 +190,6 @@
     "Pasted image 20250913181847.png",
     "მონაცემთა ბაზების რეფაქტორინგი.md",
     "Pasted image 20250913181722.png",
-    "პრობლემის გაგება.md",
     "Pasted image 20250913181602.png",
     "Pasted image 20250913181555.png",
     "Pasted image 20250913181453.png",
