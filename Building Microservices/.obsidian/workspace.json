@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "მონაცემთა გადატანა (Data Pumps).md",
+                "file": "სარჩევი.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "მონაცემთა გადატანა (Data Pumps)"
+              "title": "სარჩევი"
             }
           }
         ]
@@ -168,7 +168,12 @@
   },
   "active": "d3917a7b997ec4f6",
   "lastOpenFiles": [
+    "ცვლილების ხარჯი (Cost of Change).md",
     "სარჩევი.md",
+    "რეალურ დროში ანგარიშგება (Toward Real Time).md",
+    "Backup Data Pump.md",
+    "მონაცემთა გადატანა მოვლენების საფუძველზე (Event Data Pump).md",
+    "მონაცემთა გადატანა (Data Pumps).md",
     "მონაცემების მიღება სერვისური API-ების საშუალებით (Data Retrieval via Service Calls).md",
     "ანგარიშგების მონაცემთა ბაზა (The Reporting Database).md",
     "ანგარიშგება (Reporting).md",
@@ -178,12 +183,7 @@
     "ციკლურად ჩახლართული Dependencies.md",
     "თავი 5. შეჯამება.md",
     "ძირითადი მიზეზების გაგება (Understanding Root Causes).md",
-    "ცვლილების ხარჯი (Cost of Change).md",
-    "რეალურ დროში ანგარიშგება (Toward Real Time).md",
-    "Backup Data Pump.md",
-    "მონაცემთა გადატანა მოვლენების საფუძველზე (Event Data Pump).md",
     "Pasted image 20250913183440.png",
-    "მონაცემთა გადატანა (Data Pumps).md",
     "Pasted image 20250913183211.png",
     "Pasted image 20250913183157.png",
     "Pasted image 20250913182408.png",
