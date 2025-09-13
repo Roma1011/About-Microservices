@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ტრანზაქციული საზღვრები (Transactional Boundaries).md",
+                "file": "მონაცემთა გადატანა (Data Pumps).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ტრანზაქციული საზღვრები (Transactional Boundaries)"
+              "title": "მონაცემთა გადატანა (Data Pumps)"
             }
           }
         ]
@@ -169,6 +169,10 @@
   "active": "d3917a7b997ec4f6",
   "lastOpenFiles": [
     "სარჩევი.md",
+    "მონაცემების მიღება სერვისური API-ების საშუალებით (Data Retrieval via Service Calls).md",
+    "ანგარიშგების მონაცემთა ბაზა (The Reporting Database).md",
+    "ანგარიშგება (Reporting).md",
+    "ტრანზაქციული საზღვრები (Transactional Boundaries).md",
     "მონაცემთა ბაზების რეფაქტორინგი.md",
     "პრობლემის გაგება.md",
     "ციკლურად ჩახლართული Dependencies.md",
@@ -182,11 +186,7 @@
     "მონაცემთა გადატანა (Data Pumps).md",
     "Pasted image 20250913183211.png",
     "Pasted image 20250913183157.png",
-    "მონაცემების მიღება სერვისური API-ების საშუალებით (Data Retrieval via Service Calls).md",
-    "ანგარიშგების მონაცემთა ბაზა (The Reporting Database).md",
     "Pasted image 20250913182408.png",
-    "ანგარიშგება (Reporting).md",
-    "ტრანზაქციული საზღვრები (Transactional Boundaries).md",
     "Pasted image 20250913181902.png",
     "Pasted image 20250913181847.png",
     "Pasted image 20250913181722.png",
