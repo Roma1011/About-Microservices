@@ -20,6 +20,48 @@
               "icon": "lucide-file",
               "title": "სარჩევი"
             }
+          },
+          {
+            "id": "cbe8cb1715603e26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scaling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scaling"
+            }
+          },
+          {
+            "id": "f9f9ee2b59a2f898",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idempotency.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idempotency"
+            }
+          },
+          {
+            "id": "213b91c126e856cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ანტიფრაგმენტული ორგანიზაცია (Antifragile Organization).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ანტიფრაგმენტული ორგანიზაცია (Antifragile Organization)"
+            }
           }
         ]
       }
@@ -78,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "b9c7546ae6ed53bf",
@@ -168,39 +210,42 @@
   },
   "active": "d3917a7b997ec4f6",
   "lastOpenFiles": [
-    "ძირითადი მიზეზების გაგება (Understanding Root Causes).md",
+    "Scaling.md",
+    "Pasted image 20250919235112.png",
+    "Pasted image 20250919235053.png",
     "სარჩევი.md",
+    "Idempotency.md",
+    "ანტიფრაგმენტული ორგანიზაცია (Antifragile Organization).md",
+    "Pasted image 20250919233858.png",
+    "Pasted image 20250919233614.png",
+    "Timeout-ები (დაყოვნების ლიმიტები).md",
+    "ფუნქციონალის დეგრადაცია (Degrading Functionality).md",
+    "Pasted image 20250919232623.png",
+    "რამდენი არის ზედმეტი.md",
+    "მარცხი ყველგანაა.md",
+    "თავი 6. მასშტაბირებული მიკროსერვისები.md",
+    "თავი 2. ევოლუციური არქიტექტორი.md",
+    "რა არის მიკროსერვისები.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "მმართველობა და „ცენტრიდან ლიდერობა“.md",
     "ცვლილების ხარჯი (Cost of Change).md",
-    "რეალურ დროში ანგარიშგება (Toward Real Time).md",
-    "Backup Data Pump.md",
-    "მონაცემთა გადატანა მოვლენების საფუძველზე (Event Data Pump).md",
+    "მომხმარებლის ინტერფეისები.md",
+    "მესამე მხარის პროგრამულ უზრუნველყოფასთან ინტეგრაცია.md",
     "მონაცემთა გადატანა (Data Pumps).md",
-    "პრობლემის გაგება.md",
-    "თავი 5. შეჯამება.md",
-    "მონაცემების მიღება სერვისური API-ების საშუალებით (Data Retrieval via Service Calls).md",
-    "ანგარიშგების მონაცემთა ბაზა (The Reporting Database).md",
-    "ანგარიშგება (Reporting).md",
+    "გაზიარებული მონაცემთა ბაზა.md",
+    "ორკესტრაცია და ქორეოგრაფია.md",
+    "სინქრონული და ასინქრონული კომუნიკაცია.md",
     "ტრანზაქციული საზღვრები (Transactional Boundaries).md",
-    "მონაცემთა ბაზების რეფაქტორინგი.md",
     "ციკლურად ჩახლართული Dependencies.md",
+    "კლიენტებთან ინტერფეისის შექმნა.md",
+    "იდეალური ინტეგრაციის ტექნოლოგიის ძიება.md",
+    "წვდომა რეფერენსით (Access by Reference).md",
+    "ძირითადი მიზეზების გაგება (Understanding Root Causes).md",
     "Pasted image 20250913183440.png",
     "Pasted image 20250913183211.png",
     "Pasted image 20250913183157.png",
     "Pasted image 20250913182408.png",
-    "Pasted image 20250913181902.png",
-    "Pasted image 20250913181847.png",
-    "Pasted image 20250913181722.png",
-    "Pasted image 20250913181602.png",
-    "Pasted image 20250913181555.png",
-    "Pasted image 20250913181453.png",
-    "ჩახლართული დამოკიდებულების ბაზა.md",
-    "მონოლითის გაყოფის მიზეზები.md",
-    "MusicCorp-ის მონოლითის გაყოფა.md",
-    "ყველაფერი seams-ების გარშემო.md",
-    "თავი 5. მონოლითის გაყოფა.md",
-    "თავი 4. შეჯამება.md",
-    "მესამე მხარის პროგრამულ უზრუნველყოფასთან ინტეგრაცია.md",
-    "მომხმარებლის ინტერფეისები.md",
-    "REST.md"
+    "Pasted image 20250913181902.png"
   ]
 }
